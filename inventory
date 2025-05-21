@@ -1,0 +1,4 @@
+[webservers]
+# في ملف inventory (مثلاً inventory.ini):
+192.168.1.8 ansible_user=mohamed ansible_ssh_private_key_file=~/.ssh/id_rsa
+
